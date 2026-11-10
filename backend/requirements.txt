@@ -8,3 +8,4 @@ bcrypt==4.3.0
 google-genai
 groq
 gunicorn
+psycopg[binary]==3.3.8 
